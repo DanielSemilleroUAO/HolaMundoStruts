@@ -1,2 +1,3 @@
 com/daniel/homamundostruts/JAXRSConfiguration.class
+beans/HolaMundoAction.class
 com/daniel/homamundostruts/resources/JavaEE8Resource.class
